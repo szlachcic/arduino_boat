@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/piotr/Arduino_workspace/libraries/FreeRTOS/src",
+                "/home/piotr/Arduino_workspace/libraries/Arduino-HMC5883L-master",
+                "/home/piotr/ArduinoIDE/tools/**",
+                "/home/piotr/ArduinoIDE/hardware/arduino/avr/**",
+                "/home/piotr/Arduino_workspace/project_boat/**"
+            ],
+            "forcedInclude": [
+                "/home/piotr/ArduinoIDE/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
